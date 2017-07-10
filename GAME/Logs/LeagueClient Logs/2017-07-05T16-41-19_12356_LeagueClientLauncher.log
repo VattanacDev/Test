@@ -1,0 +1,9 @@
+000000.000| ALWAYS| Logging started at 2017-07-05T16:41:19.829
+000000.000|   OKAY| Running in Launcher Mode (Version Switcher) from cwd 'D:\LOL'.
+000000.000| ALWAYS| Application Version:7.13.192.4672 - CL:1924672 - Build Date:Jun 21 2017 - Build Time:13:12:36
+000000.000|   OKAY| Initial working directory: "D:\LOL"
+000000.000|   OKAY| Current process: "D:\LOL\LeagueClient.exe"
+000000.000|   OKAY| Command line arguments:
+000000.000|   OKAY| Launching release '0.0.0.53'.
+000000.000|   OKAY| Riot::RADS::Common::SolutionManifest::Load: ("D:/LOL/RADS/solutions/league_client_sln/releases/0.0.0.53/solutionmanifest")
+000000.000|   OKAY| Riot::RADS::Common::SolutionManifest::Load: Succeeded
